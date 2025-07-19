@@ -1,0 +1,5 @@
+2025-07-19 12:10:51,382 - INFO - All CSVs read successfully.
+2025-07-19 12:10:51,569 - INFO - Parquet files written successfully.
+2025-07-19 12:25:22,162 - WARNING - 1 rows with exit_time <= entry_time
+2025-07-19 12:25:22,164 - WARNING - 1 rows with negative paid_amount
+2025-07-19 12:25:22,183 - INFO - 1 rows removed during validation
