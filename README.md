@@ -127,7 +127,7 @@ airport_parking_project_demo/
 
   <div class="section">
     <h2>📸 Images</h2>
-    <img src="https://github.com/varsha-vraj/Airport_parking_toolkit/blob/main/cs_pics/Capture1.JPG" alt="Vehicle Entry/Exit Logging" />
+    <h3> 1. Vehicle Entry/Exit Logging<img src="https://github.com/varsha-vraj/Airport_parking_toolkit/blob/main/cs_pics/Capture1.JPG" alt="Vehicle Entry/Exit Logging" />
     <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img2.png" alt="Validate Parking Records" />
     <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img3.png" alt="Analyze Zone Utilization" />
     <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img4.png" alt="Track Frequent Parkers" />
