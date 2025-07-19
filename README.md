@@ -4,49 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Airport Parking Management Toolkit - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f8fc;
-      color: #333;
-      padding: 20px;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      margin-bottom: 20px;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 10px;
-    }
-    th {
-      background-color: #3498db;
-      color: white;
-    }
-    code {
-      background-color: #eef;
-      padding: 2px 6px;
-      border-radius: 3px;
-    }
-    .emoji {
-      font-size: 1.2em;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-    img {
-      width: 100%;
-      max-width: 800px;
-      margin: 10px 0;
-      border: 1px solid #ccc;
-      border-radius: 6px;
-    }
-  </style>
 </head>
 <body>
 
