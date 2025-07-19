@@ -152,7 +152,7 @@ airport_parking_project_demo/
   </div>
 
   <footer>
-    <p>✨ Built with ❤️ and Python</p>
+    <p>✨ Thank You </p>
   </footer>
 
 </body>
