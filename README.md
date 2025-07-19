@@ -21,10 +21,10 @@
     <table>
       <tr><th>Technology</th><th>Purpose</th></tr>
       <tr><td>Python</td><td>Core programming</td></tr>
-      <tr><td>Click</td><td>Command Line Interface</td></tr>
+      <tr><td>CLI</td><td>Command Line Interface</td></tr>
       <tr><td>PostgreSQL</td><td>Database backend</td></tr>
       <tr><td>SQLAlchemy</td><td>Database ORM</td></tr>
-      <tr><td>Apache Spark</td><td>ETL on parquet data</td></tr>
+      <tr><td>Apache Spark - PySpark</td><td>ETL on parquet data</td></tr>
       <tr><td>Poetry</td><td>Dependency management</td></tr>
     </table>
   </div>
@@ -84,12 +84,12 @@ airport_parking_project_demo/
   <div class="section">
     <h2>📸 Images</h2>
     <h3> 1. Vehicle Entry/Exit Logging<img src="https://github.com/varsha-vraj/Airport_parking_toolkit/blob/main/cs_pics/Capture1.JPG" alt="Vehicle Entry/Exit Logging" />
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img2.png" alt="Validate Parking Records" />
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img3.png" alt="Analyze Zone Utilization" />
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img4.png" alt="Track Frequent Parkers" />
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img5.png" alt="Detect Data Quality Issues" />
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img6.png" alt="Compare Parking Zone Performance" />
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img7.png" alt="Schema diagram" />
+    <h3>Validate Parking Records<img src="https://github.com/varsha-vraj/Airport_parking_toolkit/blob/main/cs_pics/Capture2.JPG" alt="Validate Parking Records" />
+    <h3>Analyze Zone Utilization<img src="https://github.com/varsha-vraj/Airport_parking_toolkit/blob/main/cs_pics/Capture3.JPG" alt="Analyze Zone Utilization" />
+    <h3> Track Frequent Parkers<img src="https://github.com/varsha-vraj/Airport_parking_toolkit/blob/main/cs_pics/Capture4.JPG" alt="Track Frequent Parkers" />
+    <h3> Data Quality Issues<img src="https://github.com/varsha-vraj/Airport_parking_toolkit/blob/main/cs_pics/Capture5.JPG" alt="Detect Data Quality Issues" />
+    <h3> Compare Parking Zone Performance <img src="https://github.com/varsha-vraj/Airport_parking_toolkit/blob/main/cs_pics/Capture6.JPG" alt="Compare Parking Zone Performance" />
+    <h3> Schema Diagram<img src="https://github.com/varsha-vraj/Airport_parking_toolkit/blob/main/cs_pics/schema.jpg" alt="Schema diagram" />
   </div>
 
   <div class="section">
