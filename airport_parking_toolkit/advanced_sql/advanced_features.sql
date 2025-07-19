@@ -54,7 +54,7 @@ EXECUTE FUNCTION log_parking_event();
 -- ==================================
 -- Transaction Example (Atomic Insert)
 -- ==================================
--- Note: Run this in a SQL client like pgAdmin or VS Code SQL editor
+
 
 BEGIN;
 
@@ -64,6 +64,5 @@ VALUES ('V010', 'MH10XY9999', 'SUV', 'Asha Mehta');
 INSERT INTO parking_events (event_id, vehicle_id, zone_id, entry_time, exit_time, paid_amount)
 VALUES ('E100', 'V010', 'Z001', NOW(), NULL, NULL);
 
--- COMMIT;  -- If all goes well
--- ROLLBACK;  -- If you want to undo
+
 
