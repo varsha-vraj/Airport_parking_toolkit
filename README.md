@@ -127,13 +127,13 @@ airport_parking_project_demo/
 
   <div class="section">
     <h2>📸 Images</h2>
-    <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img1.png](https://github.com/varsha-vraj/Airport_parking_toolkit/blob/main/Capture1.JPG)" alt="Screenshot 1" />
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img2.png" alt="Screenshot 2" />
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img3.png" alt="Screenshot 3" />
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img4.png" alt="Screenshot 4" />
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img5.png" alt="Screenshot 5" />
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img6.png" alt="Screenshot 6" />
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img7.png" alt="Screenshot 7" />
+    <img src="https://github.com/varsha-vraj/Airport_parking_toolkit/blob/main/cs_pics/Capture1.JPG" alt="Vehicle Entry/Exit Logging" />
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img2.png" alt="Validate Parking Records" />
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img3.png" alt="Analyze Zone Utilization" />
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img4.png" alt="Track Frequent Parkers" />
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img5.png" alt="Detect Data Quality Issues" />
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img6.png" alt="Compare Parking Zone Performance" />
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img7.png" alt="Schema diagram" />
   </div>
 
   <div class="section">
