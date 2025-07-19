@@ -127,8 +127,7 @@ airport_parking_project_demo/
 
   <div class="section">
     <h2>📸 Images</h2>
-    <p>Replace the links with raw GitHub URLs after uploading your images:</p>
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img1.png" alt="Screenshot 1" />
+    <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img1.png](https://github.com/varsha-vraj/Airport_parking_toolkit/blob/main/Capture1.JPG)" alt="Screenshot 1" />
     <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img2.png" alt="Screenshot 2" />
     <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img3.png" alt="Screenshot 3" />
     <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/images/img4.png" alt="Screenshot 4" />
